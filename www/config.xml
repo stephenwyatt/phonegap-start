@@ -3,17 +3,21 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
+        id        = "com.alunny.amazing"
+        version   = "99.99">
 
-    <name>Hello World</name>
+<<<<<<< HEAD
+    <name>Rapid Repairs</name>
+=======
+    <name>Stephen Wyatt</name>
+>>>>>>> 1241d0557360c6cdf081fa3ef8f496c2b4f62ec2
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Rapid Repairs Value Price Application
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://www.sawyatt.com" email="stephen@stonewallmultimedia.com">
+        Stephen Wyatt
     </author>
 
     <!--
