@@ -7,6 +7,7 @@
         version   = "99.99">
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     <name>Rapid Repairs</name>
 =======
     <name>Stephen Wyatt</name>
@@ -14,6 +15,12 @@
 
     <description>
         Rapid Repairs Value Price Application
+=======
+    <name>Stephen Wyatt</name>
+
+    <description>
+        Kick ass and take names
+>>>>>>> 7333ae8ec57eb7679288ebf9bb985955de225362
     </description>
 
     <author href="http://www.sawyatt.com" email="stephen@stonewallmultimedia.com">
